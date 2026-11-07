@@ -1,0 +1,32 @@
+{
+  "profile": {
+    "name": "Keith Daven G. Bandiola",
+    "role": "Computer Engineering student",
+    "tagline": "I build full-stack web and desktop apps, and the hardware they run on.",
+    "location": "San Jose, Antique, Philippines",
+    "education": "BS Computer Engineering, St. Anthony's College",
+    "about": "",
+    "skills": [
+      "Python",
+      "Tkinter",
+      "Flask",
+      "Node.js",
+      "Raspberry Pi",
+      "MicroPython"
+    ],
+    "email": "keithdavenbandiola800@gmail.com",
+    "phone": "09393201952",
+    "links": [],
+    "photo": "/uploads/mw5p8any72faf5.jpg"
+  },
+  "projects": [],
+  "photos": [
+    {
+      "id": "mw5p9ua89d4dee",
+      "ts": 1794013425296,
+      "caption": "W/my girl during defense",
+      "asset": "/uploads/mw5p9u9eb6d968.jpg"
+    }
+  ],
+  "posts": []
+}

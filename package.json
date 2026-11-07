@@ -1,0 +1,9 @@
+{
+  "name": "keith-bandiola-portfolio",
+  "version": "1.0.0",
+  "description": "Full-stack 3D portfolio: static frontend, Node.js API, owner login, image uploads.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
